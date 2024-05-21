@@ -6,4 +6,4 @@ numbers.each do |number|
   puts number * 2
 end
 
-puts "Hello everyone!"
+puts "Hello"
