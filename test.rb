@@ -14,5 +14,3 @@ isle.each do |i|
   puts i
 end
 
-hello = "Hello World!"
-puts hello
