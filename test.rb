@@ -6,7 +6,7 @@ numbers.each do |number|
   puts number * 2
 end
 puts "Hello"
-
+puts "Hello"
 isle = [1,2,3,4,5]
 puts isle
 
