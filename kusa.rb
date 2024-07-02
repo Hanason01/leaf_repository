@@ -1,1 +1,1 @@
-a = "KUSA"
+a = "kusa"
