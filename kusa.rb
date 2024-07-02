@@ -1,2 +1,1 @@
 a = "KUSA"
-puts a
