@@ -1,2 +1,2 @@
-a = "kusa"
+kusa = "kusa"
 
