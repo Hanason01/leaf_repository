@@ -1,2 +1,2 @@
 kusa = "kusa"
-kusasa = 9
+ddusasa = 9
