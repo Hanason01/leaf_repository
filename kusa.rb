@@ -1,1 +1,2 @@
 kusa = "kusa"
+puts kusa
