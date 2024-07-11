@@ -1,2 +1,1 @@
 kusa = "kusa"
-puts kusa
