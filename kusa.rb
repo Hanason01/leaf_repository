@@ -3,7 +3,4 @@ def kusa
 end
 
 
-def sum(x,y)
-  x + y
-end
 
