@@ -6,3 +6,6 @@ def hello
   puts 'hello'
 end
 
+def hello
+  puts 'hello'
+end
