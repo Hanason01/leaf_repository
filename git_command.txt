@@ -1,2 +1,2 @@
 "gitコマンドで新しいブランチを切る時のコマンドを記入してください"
-$ git checkout -b
+git checkout -b
