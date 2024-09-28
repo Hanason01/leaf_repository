@@ -10,4 +10,6 @@ def kusakujsakusa
   puts "kusakujsau"
 end
 
-
+def kusakusakusa
+  puts "awodioi"
+end
