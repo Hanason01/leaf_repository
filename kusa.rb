@@ -8,5 +8,4 @@ end
 
 def kusakujsakusa
   puts "kusakujsau"
-end
 
