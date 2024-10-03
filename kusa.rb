@@ -7,5 +7,4 @@ def kusakusa
 end
 
 def kusakujsakusa
-  puts "kusakujsau"
 
