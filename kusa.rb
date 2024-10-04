@@ -6,5 +6,4 @@ def kusakusa
   puts "kusa"
 end
 
-def kusakujsakusa
 
