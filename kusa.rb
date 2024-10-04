@@ -6,4 +6,3 @@ def kusakusa
   puts "kusa"
 end
 
-
