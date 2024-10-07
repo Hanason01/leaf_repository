@@ -10,4 +10,3 @@ def kusakusa
   puts "awd"
 end
 
-def oijo
