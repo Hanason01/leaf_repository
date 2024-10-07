@@ -12,4 +12,3 @@ end
 
 def oijo
   puts "awd"
-end
