@@ -4,4 +4,3 @@ end
 
 def kusakusa
   puts "kusa"
-end
