@@ -3,4 +3,3 @@ def kusa
 end
 
 def kusakusa
-  puts "kusa"
