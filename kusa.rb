@@ -9,4 +9,3 @@ end
 def kusakusa
   puts "awd"
 end
-
