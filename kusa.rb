@@ -7,4 +7,3 @@ def kusakusa
 end
 
 def kusakusa
-  puts "awd"
