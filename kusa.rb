@@ -1,2 +1,1 @@
 def kusa
-  puts 'kusa'
