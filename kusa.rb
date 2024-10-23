@@ -4,4 +4,3 @@ end
 
 def kusksa
   "awd"
-end
