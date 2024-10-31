@@ -1,1 +1,3 @@
 def kusa
+  "kusa"
+end
