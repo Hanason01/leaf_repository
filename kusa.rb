@@ -8,4 +8,3 @@ end
 
 def kusaksua
   "awe"
-end
