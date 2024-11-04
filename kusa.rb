@@ -7,4 +7,3 @@ def kusksa
 end
 
 def kusaksua
-  "awe"
