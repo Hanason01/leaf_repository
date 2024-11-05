@@ -6,4 +6,3 @@ def kusksa
   "awd"
 end
 
-def kusaksua
