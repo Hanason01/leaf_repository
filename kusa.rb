@@ -1,4 +1,3 @@
-  "wad"
 end
 
 def awd
