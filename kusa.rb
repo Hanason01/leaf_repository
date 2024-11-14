@@ -13,4 +13,3 @@ def awd
 end
 
 def dsergf
-  "awd"
