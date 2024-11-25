@@ -1,4 +1,3 @@
-def awd
   "awd"
 end
 
